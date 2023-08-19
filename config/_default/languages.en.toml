@@ -1,0 +1,51 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+
+title = "Irfan Baig"
+copyright = "© 2023, All Rights Reserved"
+
+
+[params]
+  isoCode = "en"
+  displayName = ":flag-in:"
+  rtl = false
+  
+  dateFormat = "2 January 2006"
+  
+  description = "Personal website of Irfan Baig. Engineering Manager at Seera Group"
+
+[author]
+  name = "Irfan Baig"
+  image = "img/author.jpg"
+  bio = "Personal website of Irfan Baig. Engineering Manager at Seera Group"
+  links = [
+    { github = "https://github.com/irfanbaigse" },
+    { linkedin2 = "https://www.linkedin.com/in/irfanbaigse/" },
+    { twitter = "https://twitter.com/irfanbaigse" },
+    { medium = "https://irfanbaigse.medium.com/" },
+  # { google-scholar = "https://scholar.google.com/citations?user=" },
+  # { mastodon = "https://fosstodon.org/@irfanbaigse" }
+  #   { email = "/contact/" },
+  #   { link = "https://link-to-some-website.com/" },
+  #   { codepen = "https://codepen.io/username" },
+  #   { dev = "https://dev.to/username" },
+  #   { discord = "https://discord.gg/invitecode" },
+  #   { dribbble = "https://dribbble.com/username" },
+  #   { facebook = "https://facebook.com/username" },
+  #   { foursquare = "https://foursquare.com/username" },
+  #   { gitlab = "https://gitlab.com/username" },
+  #   { instagram = "https://instagram.com/username" },
+  #   { keybase = "https://keybase.io/username" },
+  #   { lastfm = "https://lastfm.com/user/username" },
+  #   { pinterest = "https://pinterest.com/username" },
+  #   { reddit = "https://reddit.com/user/username" },
+  #   { slack = "https://workspace.url/team/userid" },
+  #   { snapchat = "https://snapchat.com/add/username" },
+  #   { soundcloud = "https://soundcloud.com/username" },
+  #   { stackoverflow = "https://stackoverflow.com/users/6digit/username" },
+  #   { steam = "https://steamcommunity.com/profiles/userid" },
+  #   { tiktok = "https://tiktok.com/@username" },
+  #   { twitch = "https://twitch.tv/username" },
+  #   { youtube = "https://youtube.com/username" },
+  ]

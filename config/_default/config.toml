@@ -1,0 +1,30 @@
+baseURL = "https://ibaig.com/"
+title = "ibaig.com - Irfan Baig"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false # baseURL/en/, baseURL/kr/ ...
+hasCJKLanguage = false # Set `true` for Chinese/Japanese/Korean languages.
+
+enableRobotsTXT = true
+paginate = 10 # Number of items per page in paginated lists.
+rssLimit = 100
+summaryLength = 70 # The length of a post description on a list page.
+buildFuture = true # if true, we can use future date for talks page
+googleAnalytics = "G-11SJVW8XB4"
+
+copyright = "©{year}, All Rights Reserved" # copyright symbol: $copy; current year: {year}
+
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[outputFormats]
+  [outputFormats.SearchIndex]
+    mediaType = "application/json"
+    baseName = "index"
+    isPlainText = true
+    notAlternative = true

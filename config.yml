@@ -1,0 +1,11 @@
+theme: congo
+taxonomies:
+  tag: tags
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+      
+ignoreFiles:
+  - _cache$

@@ -1,0 +1,57 @@
+# config/_default/params.toml
+
+colorScheme = "congo" # congo, avocado, cherry, fire, ocean, sapphire and slate.
+
+homepage.layout = "profile"
+
+# defaultAppearance= "dark"
+
+enableCodeCopy = "true"
+
+[header]
+  layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
+  showRecent = false
+  # logo = "logo.jpg"
+
+[footer]
+  showScrollToTop = true
+  showAppearanceSwitcher = true
+  showThemeAttribution = false
+
+# [socialOptions] # if set, social icons will show up.
+#   email = "mailto:irfan.blackhawk@gmail.com"
+
+
+[article]
+  showDate = false
+  showAuthor = false
+  showBreadcrumbs = false
+  showDraftLabel = false
+  showEdit = false
+  editURL = "https://github.com/irfanbaigse/ibaig.com/"
+  editAppendPath = true
+  showHeadingAnchors = false
+  showPagination = false
+  showReadingTime = false
+  # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
+
+[list]
+  showBreadcrumbs = false
+  showSummary = false
+  groupByYear = false
+
+[taxonomy]
+  showTermCount = true
+
+[sitemap]
+  excludedKinds = ["taxonomy", "term"]
+
+[fathomAnalytics]
+  # site = "ABC12345"
+  # domain = "llama.yoursite.com"
+
+[verification]
+  # google = ""
+  # bing = ""
+  # pinterest = ""
+  # yandex = ""  
