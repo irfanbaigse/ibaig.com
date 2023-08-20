@@ -28,7 +28,7 @@ googleTagManager = "G-11SJVW8XB4"
 
 [article]
   showDate = false
-  showAuthor = false
+  showAuthor = true
   showBreadcrumbs = false
   showDraftLabel = false
   showEdit = false
@@ -37,12 +37,15 @@ googleTagManager = "G-11SJVW8XB4"
   showHeadingAnchors = false
   showPagination = false
   showReadingTime = false
+  showWordCount = false
+
   # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
 
 [list]
-  # showBreadcrumbs = false
-  # showSummary = false
-  # groupByYear = false
+  showBreadcrumbs = false
+  showSummary = false
+  groupByYear = true
+  showTaxonomies = true
 
 [taxonomy]
   showTermCount = true

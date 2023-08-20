@@ -2,6 +2,7 @@
 description: Terms and policies for Irfan Baig's personal website
 showTableOfContents: true
 title: Terms & policies
+author: Irfan Baig
 ---
 
 This is my personal website written and edited by me. Your use of this website, in any and all forms, constitutes an acceptance of these terms and policies. This page is reviewed and revised from time to time.

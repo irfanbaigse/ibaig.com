@@ -2,8 +2,9 @@
 title: Howdy!
 author: Irfan Baig
 type: post
-date: 2007-05-27T08:05:29+00:00
-url: /2007/05/27/hello-world-2/
+date: 2023-05-27T08:05:29+00:00
+# slug: "content-examples"
+url: /2023/05/27/hello-world-2/
 categories:
   - News
 tags:

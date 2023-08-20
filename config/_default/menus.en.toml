@@ -17,12 +17,12 @@
 #   weight = 1
 
 [[main]]
-  name = "01. About"
+  name = "About"
   url = "/about/"
   weight = 10
 
 [[main]]
-  name = "02. Experience"
+  name = " Experience"
   url = "/jobs/"
   weight = 20
   
@@ -32,12 +32,15 @@
 #   weight = 30
   
 [[main]]
-  name = "03. Post"
-  url = "/posts/"
+  name              = "posts"
+  identifier        = "posts"
+  url               = "/posts/"
   weight = 30
+  # name = "03. Post"
+  # url = "/posts/"
   
 [[main]]
-  name = "04. Contact"
+  name = "Contact"
   url = "/contact/"
   weight = 40
 

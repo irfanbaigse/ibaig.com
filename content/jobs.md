@@ -1,7 +1,11 @@
 ---
+title: Where I’ve Worked
 author: Irfan Baig
-type: "page"
+layout: "page"
+# type: page
 showTableOfContents: true
+# aliases: ["jobs","experience"]
+# date: 2023-08-19T17:27:36+00:00
 ---
 ## Professional Summary
 

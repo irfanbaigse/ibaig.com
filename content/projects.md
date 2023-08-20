@@ -1,5 +1,5 @@
 ---
-title: Where I’ve Worked
+title: Projects
 author: Irfan Baig
 type: page
 aliases: ["jobs","experience"]
