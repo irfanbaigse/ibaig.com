@@ -1,5 +1,5 @@
 ---
-title: "Postssss"
+title: "Posts"
 description: "Learn about some of my projects."
 cascade:
   showReadingTime: true
