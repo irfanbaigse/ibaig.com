@@ -32,7 +32,7 @@
 #   weight = 30
 
 [[main]]
-  name = "posts"
+  name = "Posts"
   identifier = "posts"
   url = "/posts/"
   weight = 30
