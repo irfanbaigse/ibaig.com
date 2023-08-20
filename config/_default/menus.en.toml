@@ -25,20 +25,20 @@
   name = " Experience"
   url = "/jobs/"
   weight = 20
-  
+
 # [[main]]
 #   name = "Blog"
 #   url = "https://medium.com/@iam-irfanbaig"
 #   weight = 30
-  
+
 [[main]]
-  name              = "posts"
-  identifier        = "posts"
-  url               = "/posts/"
+  name = "posts"
+  identifier = "posts"
+  url = "/posts/"
   weight = 30
-  # name = "03. Post"
-  # url = "/posts/"
-  
+# name = "03. Post"
+# url = "/posts/"
+
 [[main]]
   name = "Contact"
   url = "/contact/"
@@ -48,7 +48,7 @@
   name = "Resume"
   url = "/resume/"
   weight = 50
-  
+
 # [[main]]
 #   action = "appearance"
 #   weight = 50

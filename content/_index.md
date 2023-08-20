@@ -1,6 +1,8 @@
 ---
 author: Irfan Baig
 description: Personal website of Irfan Baig, Engineering Manager at Seera Group
+cascade:
+  showReadingTime: false
 ---
 
 {{< lead >}}
