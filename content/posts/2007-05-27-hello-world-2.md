@@ -7,6 +7,7 @@ url: /2007/05/27/hello-world-2/
 categories:
   - News
 tags:
+  - news
 
 ---
 <!-- https://github.com/SathyaBhat/sathyasays.com/blob/master/content/posts/2023-07-curl-sni-host-spoofing.md -->
@@ -14,4 +15,4 @@ Howdy folks. After my first attempt at blogging, which was "very successful"(tha
   
 Here's me signing off,
   
-~sathya~
+~Irfan Baig~

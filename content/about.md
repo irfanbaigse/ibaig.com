@@ -2,6 +2,7 @@
 title: About
 author: Irfan Baig
 type: page
+showTableOfContents: true
 aliases: ["about-us","about-me","contact"]
 date: 2008-01-10T17:27:36+00:00
 
@@ -9,35 +10,47 @@ date: 2008-01-10T17:27:36+00:00
 
 ### Bio 
 
-I am from Bangalore, India. Working in UAE. Having over 10+ years of experience with Java(Spring), PHP(Larvel,Yii2,Symphoney), Javascript(Nodejs). Side projects with flutter.
+I am from Bangalore, India 🇮🇳. Currently Working in UAE 🇦🇪. Having over 10+ years of experience with Java(Spring), PHP(Larvel,Yii2,Symphoney), Javascript(Nodejs). Side projects with flutter.
 
-I'm not fanatic about specific tools or services and believe in making the most available out of the tools that I get to work with. I have significant experience in the below services, tools and technologies:
+I hold a pragmatic approach when it comes to utilizing tools and services, embracing the best from what's at hand. My belief centers on maximizing the potential of the resources I have the privilege to engage with. Over time, I've acquired substantial expertise across a spectrum of services, tools, and technologies, including:
 
-Cloud Platforms
-* Amazon Web Services (core compute, networking, database and storage services)
-* Azure (core compute, networking, database and storage services)
+The listed services, tools, and technologies have been a cornerstone of my professional experience:
 
-Containers & Orchestration
+### Higher education
+* B.E - E&C (2011)
+
+### Programming languages
+* Java
+* PHP
+* JavaScript / TypeScript
+* Dart
+
+### Frameworks
+* Spring
+* Laravel / Yii2/ Codeignitor/ Symfony
+* Node.js / Express.js
+* Flutter
+* Vuejs
+
+### Databases
+* MongoDB
+* ElasticSearch
+* MySQL
+
+### DevOps
+* AWS
+* Linux
 * Docker
-* Kubernetes
+* Docker Compose
 
-Infrastructure as Code
-* Terraform
-* AWS CDK
+### Metodologies
+* Agile
+* Scrum
 
-Configuation Management
-* Ansible
-* Chef
-
-Observability
-* Prometheus
-* New Relic
-* Splunk
-* Datadog
-
-I am the author of Practical Docker with Python ([first](https://amzn.to/3B9pQaz) & [second edition](https://amzn.to/3B9pQaz)), a co-author of [The CDK Book](https://www.thecdkbook.com/). I work with a lot of different communities  and have been recognized as an [AWS Community Hero](https://aws.amazon.com/developer/community/heroes/sathyajith-bhat/). 
-
-I love organizing and running events (physical as well as virtual) and have been part of organizing committee of events such as Barcamp Bangalore, AWS Community Day - Bangalore, India, South Asia, and CDK Day. In my free time I love playing games on my PC and/or Switch (typically ARPGs/City Builders/Simulators) and occasionally livestream gaming and coding on [Twitch](https://www.twitch.tv/sathyabhat).
+### Spoken languages
+* English (Professional)
+* Urdu / Hindi
+* Kannada (Regional)
 
 <!-- 
 ### Contact

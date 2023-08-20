@@ -8,6 +8,10 @@ homepage.layout = "profile"
 
 enableCodeCopy = "true"
 
+location = "Dubai, UAE"
+
+googleTagManager = "G-11SJVW8XB4"
+
 [header]
   layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
   showRecent = false
@@ -36,9 +40,9 @@ enableCodeCopy = "true"
   # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
 
 [list]
-  showBreadcrumbs = false
-  showSummary = false
-  groupByYear = false
+  # showBreadcrumbs = false
+  # showSummary = false
+  # groupByYear = false
 
 [taxonomy]
   showTermCount = true

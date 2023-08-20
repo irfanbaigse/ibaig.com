@@ -1,5 +1,5 @@
 ---
-description: Terms and policies for Antoine Soetewey's personal website
+description: Terms and policies for Irfan Baig's personal website
 showTableOfContents: true
 title: Terms & policies
 ---
@@ -65,6 +65,6 @@ All original content (e.g. articles, blog posts, codes, files, illustrations, ar
 
 ### Attribution
 
-If you're inclined to give credit --- a link back to the source attributed to either [Antoine Soetewey](/) or [ibaig.com](/) is good enough for me.
+If you're inclined to give credit --- a link back to the source attributed to either [Irfan Baig](/) or [ibaig.com](/) is good enough for me.
 
 *Talking about credits, thanks <a href="https://mademistakes.com" target="_blank" rel="noopener">Michael Rose</a> for the template of this page, and <a href="https://jamespanther.com/" target="_blank" rel="noopener">James Panther</a> for the theme of this website.*

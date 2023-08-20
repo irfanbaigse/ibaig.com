@@ -73,3 +73,7 @@
   name = "Twitter"
   url = "https://twitter.com/iam_irfanbaig"
   weight = 40
+
+[[footer]]
+  name = "Terms"
+  pageRef = "terms"
