@@ -26,10 +26,10 @@
   url = "/jobs/"
   weight = 20
 
-# [[main]]
-#   name = "Blog"
-#   url = "https://medium.com/@iam-irfanbaig"
-#   weight = 30
+[[main]]
+  name = "Blog"
+  url = "https://medium.com/@iam-irfanbaig"
+  weight = 30
 
 # [[main]]
 #   name = "Posts"
