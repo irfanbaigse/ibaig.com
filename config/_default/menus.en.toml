@@ -31,11 +31,11 @@
 #   url = "https://medium.com/@iam-irfanbaig"
 #   weight = 30
 
-[[main]]
-  name = "Posts"
-  identifier = "posts"
-  url = "/posts/"
-  weight = 30
+# [[main]]
+#   name = "Posts"
+#   identifier = "posts"
+#   url = "/posts/"
+#   weight = 30
 # name = "03. Post"
 # url = "/posts/"
 

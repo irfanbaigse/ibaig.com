@@ -1,6 +1,6 @@
 # config/_default/params.toml
 
-colorScheme = "congo" # congo, avocado, cherry, fire, ocean, sapphire and slate.
+colorScheme = "cherry" # congo, avocado, cherry, fire, ocean, sapphire and slate.
 
 homepage.layout = "profile"
 
