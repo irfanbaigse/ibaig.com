@@ -6,7 +6,7 @@ cascade:
 ---
 
 {{< lead >}}
-Engineering Manager with 13+ YOE in Java, PHP7, JavaScript & Flutter
+Engineering Manager with 11+ YOE in Java, NodeJs, PHP7, Flutter & SQL
 {{< /lead >}}
 
 Hello, my name is Irfan Baig. I am Engineering Manager at Almosafer, passionate about technology and its multiple applications in the real world.

@@ -11,4 +11,4 @@ For a more detailed explanation of your issue, you can [schedule an introductory
 
 Additionally, you can find solutions to commonly asked questions in our [FAQ](/faq/) section.
 
-For anything else, contact me by [email](mailto:irfan.blackhawky@gmail.com) :envelope:
+For anything else, contact me by [email](mailto:irfanbaigse@gmail.com) :envelope:

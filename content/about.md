@@ -10,7 +10,7 @@ aliases: ["about-us","about-me","contact"]
 
 ### Bio 
 
-I am from Bangalore, India 🇮🇳. Currently Working in UAE 🇦🇪. Having over 10+ years of experience with Java(Spring), PHP(Larvel,Yii2,Symphoney), Javascript(Nodejs). Side projects with flutter.
+I am from Bangalore, India 🇮🇳. Currently Working in UAE 🇦🇪. Having over 11+ years of experience with Java(Spring Boot), PHP(Larvel,Yii2,Symphoney), Javascript(Nodejs). Side projects with flutter.
 
 I hold a pragmatic approach when it comes to utilizing tools and services, embracing the best from what's at hand. My belief centers on maximizing the potential of the resources I have the privilege to engage with. Over time, I've acquired substantial expertise across a spectrum of services, tools, and technologies, including:
 
@@ -22,13 +22,14 @@ The listed services, tools, and technologies have been a cornerstone of my profe
 ### Programming languages
 * Java
 * PHP
-* JavaScript / TypeScript
+* JavaScript / TypeScript / Nodejs
 * Dart
+* SQL
 
 ### Frameworks
-* Spring
+* Spring Boot
 * Laravel / Yii2/ Codeignitor/ Symfony
-* Node.js / Express.js
+* Express.js
 * Flutter
 * Vuejs
 
